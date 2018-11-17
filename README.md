@@ -1,5 +1,5 @@
 # Updating Contents Realtime
-An app that shows the proper way to update realtime content without confusing your users.
+An app that shows the proper way to update realtime content without confusing your users. [View tutorial](https://pusher.com/tutorials/realtime-content-good-ux).
 
 ## Getting Started
 
